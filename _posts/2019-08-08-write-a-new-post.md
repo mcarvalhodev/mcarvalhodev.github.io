@@ -1,5 +1,5 @@
 ---
-title: Writing a New Post
+title: Writing a New Post with Marcelo
 author: cotes
 date: 2019-08-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
@@ -107,7 +107,7 @@ math: true
 ---
 ```
 
-After enabling the mathematical feature, you can add math equations with the following syntax: 
+After enabling the mathematical feature, you can add math equations with the following syntax:
 
 - **Block math** should be added with `$$ math $$` with **mandatory** blank lines before and after `$$`
 - **Inline math** (in lines) should be added with `$$ math $$` without any blank line before or after `$$`
